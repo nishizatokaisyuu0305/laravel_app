@@ -39,7 +39,7 @@ laravelの基礎理解を深めるために作成。
 ## フォルダ構成
 
 ```text
-todo-app
+laravel-app
 ├── app/laravel
 │    
 ├── docker
