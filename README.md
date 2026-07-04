@@ -1,0 +1,79 @@
+# laravel App
+
+## 概要
+
+laravel学習用テストアプリ。
+laravelの基礎理解を深めるために作成。
+
+---
+
+## 機能
+
+
+---
+
+## 使用技術
+
+### フロントエンド
+
+- HTML
+- CSS
+- javascript
+
+### バックエンド
+
+- PHP
+
+### データベース
+
+### バージョン管理
+
+- Git
+- GitHub
+
+---
+
+## 画面イメージ
+
+
+## フォルダ構成
+
+```text
+todo-app
+├── app/laravel
+│    
+├── docker
+│   ├── nginx
+│   │   └── default.conf
+│   └── php
+│       └── Dockerfile
+├── docker-compose.yml
+└── README.md
+```
+
+---
+
+## データベース
+
+### テーブル名
+
+### カラム
+
+---
+
+## 今後の改善予定
+
+---
+
+## 学習内容
+
+- laravel環境構築
+- docker環境構築
+- breeze環境構築
+- node.js環境構築
+
+---
+
+## 作成者
+
+nishikai
